@@ -30,7 +30,8 @@ def circulate():
     print("After circulating the values are:",result)
 ```
 ## Output:
-![archana2](https://user-images.githubusercontent.com/119477782/225242605-9cb9bdc0-0b14-4b0b-b616-19e3522f7900.png)
+
+![circulte](https://user-images.githubusercontent.com/119477782/228428433-d5ffbf75-f833-40b0-a4aa-db95170495fa.png)
 
 ## Result:
 Thus the circulation of the n variables successfully found
